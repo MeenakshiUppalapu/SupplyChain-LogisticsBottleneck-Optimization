@@ -10,15 +10,10 @@ By implementing an end-to-end data pipeline powered by **SQL, Python, and Power 
 ## 🏗️ System Architecture & Data Workflow
 The pipeline utilizes an automated data architecture to ingest raw transactional data from warehouse enterprise systems, transform the metrics via an analytics layer, and serve interactive visual intelligence to executive decision-makers.
 
-+------------------------------+     +----------------------------+     +----------------------------+
-|     Data Ingestion Layer     |     |    Transformation Layer    |     |  Executive Insights Layer  |
-|          (SQL & Python)      |     |         (Power BI)         |     |        (Power BI / AI)     |
-|                              |     |                            |     |                            |
-| * Extract Trans Logs (SQL)   | --> | * ETL & Schema Cleansing   | --> | * Analytics Reference      |
-| * Preprocessing & Clean      |     | * DAX Metric Modeling      |     |   Baselines (50% / 90%)    |
-|   Anomalies (Python)         |     | * Conditional Formatter    |     | * Dynamic Root Cause       |
-+------------------------------+     +----------------------------+     |   Fulfillment Alerting     |
-                                                                        +----------------------------+
+| 📥 1. Data Ingestion Layer <br> `(SQL & Python)` | ⚙️ 2. Transformation Layer <br> `(Power BI)` | 📊 3. Executive Insights Layer <br> `(Power BI / AI)` |
+| :--- | :--- | :--- |
+| • Extract Transit Logs (SQL) <br>• Preprocess & Clean Anomalies (Python) | • ETL & Schema Cleansing <br>• DAX Metric Modeling <br>• Conditional Formatting Logic | • Analytics Reference Baselines (50% / 90%) <br>• Dynamic Root Cause Fulfillment Alerting |
+
 ---
 
 ## 🌊 Technical Workflow & Operational Overflow

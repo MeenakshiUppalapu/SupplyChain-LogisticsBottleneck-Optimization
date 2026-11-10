@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_weight_kg,safety_stock_level,current_inventory_level
+P001,Product Alpha 1,Electronics,6.71,56,27
+P002,Product Alpha 2,Electronics,1.83,189,15
+P003,Product Alpha 3,Home Appliances,32.36,109,42
+P004,Product Alpha 4,Industrial Supplies,36.52,157,659
+P005,Product Alpha 5,Electronics,7.42,90,548
+P006,Product Alpha 6,Apparel,16.47,76,15
+P007,Product Alpha 7,Apparel,43.8,117,12
+P008,Product Alpha 8,Automotive,26.19,70,500
+P009,Product Alpha 9,Electronics,38.56,61,24
+P010,Product Alpha 10,Electronics,7.74,147,664
+P011,Product Alpha 11,Apparel,24.27,103,27
+P012,Product Alpha 12,Home Appliances,44.53,91,588
+P013,Product Alpha 13,Industrial Supplies,37.07,106,30
+P014,Product Alpha 14,Apparel,41.13,152,27
+P015,Product Alpha 15,Industrial Supplies,39.87,130,711
+P016,Product Alpha 16,Automotive,33.65,86,26
+P017,Product Alpha 17,Industrial Supplies,16.61,117,797
+P018,Product Alpha 18,Home Appliances,38.82,180,41
+P019,Product Alpha 19,Home Appliances,17.48,90,265
+P020,Product Alpha 20,Automotive,30.77,185,26
+P021,Product Alpha 21,Electronics,13.56,187,27
+P022,Product Alpha 22,Home Appliances,23.09,166,10
+P023,Product Alpha 23,Electronics,17.14,126,42
+P024,Product Alpha 24,Home Appliances,22.24,188,200
+P025,Product Alpha 25,Electronics,11.22,142,29
+P026,Product Alpha 26,Industrial Supplies,44.02,70,15
+P027,Product Alpha 27,Industrial Supplies,12.3,82,18
+P028,Product Alpha 28,Industrial Supplies,32.23,158,23
+P029,Product Alpha 29,Automotive,5.88,145,729
+P030,Product Alpha 30,Home Appliances,26.69,66,31
+P031,Product Alpha 31,Electronics,40.79,68,13
+P032,Product Alpha 32,Apparel,30.27,68,443
+P033,Product Alpha 33,Home Appliances,11.31,188,784
+P034,Product Alpha 34,Automotive,29.82,154,22
+P035,Product Alpha 35,Apparel,30.46,158,36
+P036,Product Alpha 36,Electronics,11.57,65,35
+P037,Product Alpha 37,Home Appliances,8.67,187,343
+P038,Product Alpha 38,Automotive,2.75,113,14
+P039,Product Alpha 39,Industrial Supplies,18.59,53,15
+P040,Product Alpha 40,Automotive,17.36,104,35
+P041,Product Alpha 41,Automotive,31.5,117,492
+P042,Product Alpha 42,Industrial Supplies,10.19,174,394
+P043,Product Alpha 43,Electronics,3.04,198,262
+P044,Product Alpha 44,Industrial Supplies,3.03,172,42
+P045,Product Alpha 45,Industrial Supplies,30.55,70,21
+P046,Product Alpha 46,Home Appliances,26.26,153,17
+P047,Product Alpha 47,Electronics,42.09,70,797
+P048,Product Alpha 48,Home Appliances,6.32,130,471
+P049,Product Alpha 49,Apparel,20.89,167,30
+P050,Product Alpha 50,Industrial Supplies,23.01,75,14
+P051,Product Alpha 51,Home Appliances,13.18,139,450
+P052,Product Alpha 52,Automotive,30.22,189,29
+P053,Product Alpha 53,Industrial Supplies,5.64,126,337
+P054,Product Alpha 54,Electronics,27.41,191,478
+P055,Product Alpha 55,Apparel,11.67,102,717
+P056,Product Alpha 56,Electronics,0.66,73,37
+P057,Product Alpha 57,Home Appliances,25.46,117,652
+P058,Product Alpha 58,Electronics,37.64,69,19
+P059,Product Alpha 59,Industrial Supplies,2.36,191,19
+P060,Product Alpha 60,Apparel,30.18,60,32
+P061,Product Alpha 61,Apparel,38.97,193,36
+P062,Product Alpha 62,Home Appliances,35.32,155,383
+P063,Product Alpha 63,Automotive,17.52,113,27
+P064,Product Alpha 64,Electronics,16.06,170,404
+P065,Product Alpha 65,Home Appliances,15.11,107,397
+P066,Product Alpha 66,Electronics,30.74,121,721
+P067,Product Alpha 67,Industrial Supplies,8.45,134,318
+P068,Product Alpha 68,Apparel,32.92,59,644
+P069,Product Alpha 69,Apparel,40.53,161,318
+P070,Product Alpha 70,Home Appliances,23.64,115,12
+P071,Product Alpha 71,Industrial Supplies,42.72,100,33
+P072,Product Alpha 72,Apparel,30.18,130,507
+P073,Product Alpha 73,Apparel,9.04,153,28
+P074,Product Alpha 74,Automotive,14.02,94,29
+P075,Product Alpha 75,Home Appliances,20.18,160,676
+P076,Product Alpha 76,Home Appliances,13.13,180,40
+P077,Product Alpha 77,Industrial Supplies,10.5,135,440
+P078,Product Alpha 78,Home Appliances,44.29,87,11
+P079,Product Alpha 79,Industrial Supplies,32.47,68,39
+P080,Product Alpha 80,Automotive,29.69,176,35
+P081,Product Alpha 81,Electronics,36.28,77,37
+P082,Product Alpha 82,Industrial Supplies,41.33,168,13
+P083,Product Alpha 83,Electronics,42.78,166,675
+P084,Product Alpha 84,Automotive,40.43,179,761
+P085,Product Alpha 85,Automotive,34.58,165,453
+P086,Product Alpha 86,Industrial Supplies,3.95,174,481
+P087,Product Alpha 87,Apparel,40.24,110,543
+P088,Product Alpha 88,Electronics,31.38,85,436
+P089,Product Alpha 89,Home Appliances,24.65,66,617
+P090,Product Alpha 90,Automotive,40.77,65,630
+P091,Product Alpha 91,Industrial Supplies,42.45,55,34
+P092,Product Alpha 92,Apparel,22.23,149,36
+P093,Product Alpha 93,Apparel,15.46,161,229
+P094,Product Alpha 94,Automotive,40.86,92,39
+P095,Product Alpha 95,Industrial Supplies,6.54,194,285
+P096,Product Alpha 96,Automotive,15.07,96,466
+P097,Product Alpha 97,Automotive,33.96,133,588
+P098,Product Alpha 98,Automotive,33.83,114,15
+P099,Product Alpha 99,Electronics,34.06,139,24
+P100,Product Alpha 100,Home Appliances,6.12,101,11

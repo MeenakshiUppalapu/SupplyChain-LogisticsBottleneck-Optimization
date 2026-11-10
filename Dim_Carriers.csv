@@ -1,0 +1,5 @@
+carrier_id,carrier_name,mode
+C01,Canada Post,Ground
+C02,FedEx Express,Air
+C03,CN Rail,Rail
+C04,Challenger Motor Freight,Truckload

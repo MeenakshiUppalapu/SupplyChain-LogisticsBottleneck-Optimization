@@ -1,4 +1,8 @@
-# Supply Chain Optimization & Carrier Performance Diagnostics
+# Case Study: Supply Chain Optimization & Carrier Performance Diagnostics
+**Target Industry Alignment:** Supply Chain Logistics & Operations Analytics, specifically focusing on enterprise e-commerce fulfillment, third-party logistics, and vendor contract management
+
+## 📊 Executive Dashboard Preview
+![Dashboard Layout Preview](Dashboard_Preview.png)
 
 ## 📌 Executive Summary
 This project features an interactive analytics architecture designed to audit and optimize carrier logistics across a North American distribution network. During the diagnostic phase, a **systemic network failure** was uncovered: 100% of active carriers fell significantly below the contractually mandated **90% Service Level Agreement (SLA)**. 
